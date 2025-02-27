@@ -2,11 +2,11 @@
 <h3 align="center">A Full Stack Mobile Developer</h3>
 I'm Abrham Daniel—a Full-Stack Mobile Developer with 4+ years of experience specializing in Flutter and Firebase (Cloud Functions, Firestore, Authentication, and Storage). I enjoy building innovative, cross-platform apps and have hands-on expertise in utilizing native Android API for my flutter apps using Kotlin. I am familiar with creating clean code using clean architecture in addition to MVVM or MVC design patterns while using either provider or BLoC for state management as is demonstrated in my portfolio site and Nonstop project respectively. I have also developed and deployed games to the play store using Unity (C#), and dabbled with art for games with tools like Inkscape and Tiled for 2d art and Blender for 3d art although I am currently not working on that as they were mostly hobby projects.
 
-### Projects Highlights
+### Projects Highlights (Showcase the different type of projects I worked on)
 
 - **MassTaxi**: a dynamic audio advertising platform for public transport. I was responsible for creating the mobile app in Flutter, and backend with Firebase Cloud Functions, plus native Kotlin for Bluetooth features which were essential for our apps. It involved creating complex ad matching and ad serve prediction algorithms to accommodate our unique use cases.
+- - **Karta Game**: A Unity-based card game for the Ethiopian market, handling everything from art (in Inkscape) to gameplay logic in C#. Learned state management, player simulation, animation and gameplay loop. Was an interesting and fun project.
 - **Crypto Web Scrape**: Developed a scheduled Firebase Cloud Function using Puppeteer to scrape crypto/NFT data and store it in Cloud Storage.
-- **Karta Game**: A Unity-based card game for the Ethiopian market, handling everything from art (in Inkscape) to gameplay logic in C#. Learned state management, player simulation, animation and gameplay loop. Was an interesting and fun project.
 - **Additional Projects**: Crafted a Mini Carpool Game to promote fuel efficiency, a simple math game for fun and skill improvement, a Train Tracking & Payment System for rapid ticket processing, and a variety of other software solutions.
 
 I’m passionate about solving real life problems with the best tools available in creative ways as I still believe there are many areas in life that can be optimized and improved using software.
