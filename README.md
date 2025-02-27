@@ -5,7 +5,7 @@ I'm Abrham Daniel—a Full-Stack Mobile Developer with 4+ years of experience sp
 ### Projects Highlights (Showcase the different type of projects I worked on)
 
 - **MassTaxi**: a dynamic audio advertising platform for public transport. I was responsible for creating the mobile app in Flutter, and backend with Firebase Cloud Functions, plus native Kotlin for Bluetooth features which were essential for our apps. It involved creating complex ad matching and ad serve prediction algorithms to accommodate our unique use cases.
-- - **Karta Game**: A Unity-based card game for the Ethiopian market, handling everything from art (in Inkscape) to gameplay logic in C#. Learned state management, player simulation, animation and gameplay loop. Was an interesting and fun project.
+- **Karta Game**: A Unity-based card game for the Ethiopian market, handling everything from art (in Inkscape) to gameplay logic in C#. Learned state management, player simulation, animation and gameplay loop. Was an interesting and fun project.
 - **Crypto Web Scrape**: Developed a scheduled Firebase Cloud Function using Puppeteer to scrape crypto/NFT data and store it in Cloud Storage.
 - **Additional Projects**: Crafted a Mini Carpool Game to promote fuel efficiency, a simple math game for fun and skill improvement, a Train Tracking & Payment System for rapid ticket processing, and a variety of other software solutions.
 
